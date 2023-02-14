@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -d ":" .fs,s /etc/passwd | sort
